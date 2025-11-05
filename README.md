@@ -8,7 +8,7 @@ The dashboard provides key insights into survival rates, age group effects, biom
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Heart Disease Dashboard" width="850">
+  <img src="images/Heart Disease Analysis Image.png">
 </p>
 
 ---
