@@ -50,3 +50,17 @@ Older groups tend to show **multiple overlapping risk factors**, increasing fata
 | **Power BI** | Dashboard creation & visualization |
 | **DAX Functions** | Calculated KPIs and custom measures |
 | **CSV Dataset** | Patient medical & survival data |
+
+---
+
+## 🗂 Folder Structure
+data/ → dataset used for analysis
+dashboard/ → Power BI dashboard (.pbix)
+images/ → screenshots for documentation
+
+---
+
+🤝 Contribution
+
+Contributions, suggestions, and improvements are welcome!
+Feel free to open an issue or submit a pull request.
